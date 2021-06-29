@@ -1,0 +1,19 @@
+.navbar-page {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-page li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+   
+.navbar-page  li a:hover {
+  background-color: #b8be84;
+}
+
+.navbar-page .active {
+    background-color: rgb(118, 118, 122);
+}
